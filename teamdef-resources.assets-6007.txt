@@ -403,8 +403,8 @@
     "FinancialGrade": "6"
   },
   {
-    "Enum": "Team Falcons PH",
-    "Name": "Team Falcons PH",
+    "Enum": "TEAM FALCONS PH",
+    "Name": "TEAM FALCONS PH",
     "ShortName": "FLCN",
     "Season": "2021",
     "LeagueEnum": "LCS",
