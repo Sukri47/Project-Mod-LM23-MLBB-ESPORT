@@ -527,8 +527,8 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "Selangor Red Giants",
-    "Name": "Selangor Red Giants",
+    "Enum": "SELANGOR RED GIANTS",
+    "Name": "SELANGOR RED GIANTS",
     "ShortName": "SRG",
     "Season": "2021",
     "LeagueEnum": "LEC",
@@ -682,8 +682,8 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "MONSTER VINICIUS",
-    "Name": "MONSTER VINICIUS",
+    "Enum": "MONSTER VICIOUS",
+    "Name": "MONSTER VICIOUS",
     "ShortName": "MV",
     "Season": "2021",
     "LeagueEnum": "LEC",
