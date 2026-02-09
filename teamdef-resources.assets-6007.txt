@@ -744,9 +744,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "TEAM KEY",
-    "Name": "TEAM KEY",
-    "ShortName": "KEY",
+    "Enum": "TEAM REY",
+    "Name": "TEAM REY",
+    "ShortName": "REY",
     "Season": "2021",
     "LeagueEnum": "LEC",
     "TeamLogo": "IMG_Team_Logo_Rogue Warriors",

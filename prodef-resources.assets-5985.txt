@@ -2327,7 +2327,7 @@
   {
     "Enum": "MAIMA",
     "Name": "ProDef_Maima_Name",
-    "Team": "CG ESPORTS",
+    "Team": "GAMESMY KELANTAN",
     "ProImage": "IMG_Player_ARMUT_001",
     "ProLargeImage": "IMG_Player_ARMUT",
     "BirthYear": "1998",
@@ -2341,7 +2341,7 @@
   {
     "Enum": "SKYZAR",
     "Name": "ProDef_Skyzar_Name",
-    "Team": "CG ESPORTS",
+    "Team": "GAMESMY KELANTAN",
     "ProImage": "IMG_Player_VANDER_001",
     "ProLargeImage": "IMG_Player_VANDER",
     "BirthYear": "1994",
@@ -2355,7 +2355,7 @@
   {
     "Enum": "MATDINZ",
     "Name": "ProDef_MatDinz_Name",
-    "Team": "CG ESPORTS",
+    "Team": "GAMESMY KELANTAN",
     "ProImage": "IMG_Player_KOBBE_001",
     "ProLargeImage": "IMG_Player_KOBBE",
     "BirthYear": "1996",
