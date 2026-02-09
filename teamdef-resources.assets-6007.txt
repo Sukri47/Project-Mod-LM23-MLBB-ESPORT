@@ -405,7 +405,7 @@
   {
     "Enum": "TEAM FALCONS PH",
     "Name": "TEAM FALCONS PH",
-    "ShortName": "FLCN",
+    "ShortName": "FLPH",
     "Season": "2021",
     "LeagueEnum": "LCS",
     "TeamLogo": "IMG_Team_Logo_Royal Never Give Up",
@@ -806,8 +806,8 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "GamesMY Kelantan",
-    "Name": "GamesMY Kelantan",
+    "Enum": "GAMESMY KELANTAN",
+    "Name": "GAMESMY KELANTAN",
     "ShortName": "GK",
     "Season": "2021",
     "LeagueEnum": "LEC",
@@ -837,9 +837,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "Cloud9",
-    "Name": "9c",
-    "ShortName": "9c",
+    "Enum": "AURORA GAMING",
+    "Name": "AURORA GAMING",
+    "ShortName": "AUR",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Cloud9",
@@ -868,9 +868,9 @@
     "FinancialGrade": "9"
   },
   {
-    "Enum": "Team Liquid",
-    "Name": "T.L.",
-    "ShortName": "T.L.",
+    "Enum": "YANGON GALACTICOS",
+    "Name": "YANGON GALACTICOS",
+    "ShortName": "YG",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Team Liquid",
@@ -899,9 +899,9 @@
     "FinancialGrade": "9"
   },
   {
-    "Enum": "TSM",
-    "Name": "T.M.",
-    "ShortName": "T.M.",
+    "Enum": "TEAM SPIRIT",
+    "Name": "TEAM SPIRIT",
+    "ShortName": "TS",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_TSM",
@@ -930,9 +930,9 @@
     "FinancialGrade": "11"
   },
   {
-    "Enum": "100 Thieves",
-    "Name": "1000",
-    "ShortName": "1000",
+    "Enum": "TEAM FALCONS",
+    "Name": "TEAM FALCONS",
+    "ShortName": "FLCN",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_100 Thieves",
@@ -961,9 +961,9 @@
     "FinancialGrade": "5"
   },
   {
-    "Enum": "Dignitas QNTMPAY",
-    "Name": "DQ.",
-    "ShortName": "DQ.",
+    "Enum": "CFU GAMING",
+    "Name": "CFU GAMING",
+    "ShortName": "CFU",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Dignitas QNTMPAY",
@@ -992,9 +992,9 @@
     "FinancialGrade": "6"
   },
   {
-    "Enum": "Evil Geniuses",
-    "Name": "Devl",
-    "ShortName": "Devl",
+    "Enum": "EVIL",
+    "Name": "EVIL",
+    "ShortName": "EVIL",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Evil Geniuses",
@@ -1023,9 +1023,9 @@
     "FinancialGrade": "6"
   },
   {
-    "Enum": "Immortals",
-    "Name": "IMO",
-    "ShortName": "IMO",
+    "Enum": "BLACK SENTENCE ESPORTS",
+    "Name": "BLACK SENTENCE ESPORTS",
+    "ShortName": "BSE",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Immortals",
@@ -1054,9 +1054,9 @@
     "FinancialGrade": "6"
   },
   {
-    "Enum": "FlyQuest",
-    "Name": "F.Q",
-    "ShortName": "F.Q",
+    "Enum": "TEAM ZONE",
+    "Name": "TEAM ZONE",
+    "ShortName": "TZ",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_FlyQuest",
@@ -1085,9 +1085,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "Counter Logic Gaming",
-    "Name": "Cgam",
-    "ShortName": "Cgam",
+    "Enum": "DIANFENGYAOGUAI",
+    "Name": "DIANFENGYAOGUAI",
+    "ShortName": "DFYG",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Counter Logic Gaming",
@@ -1116,9 +1116,9 @@
     "FinancialGrade": "8"
   },
   {
-    "Enum": "Golden Guardians",
-    "Name": "Go.G",
-    "ShortName": "Go.G",
+    "Enum": "BOOTSGATE ESPORTS",
+    "Name": "BOOTSGATE ESPORTS",
+    "ShortName": "BGE",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Golden Guardians",
@@ -1147,9 +1147,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "MAD Lions",
-    "Name": "lion",
-    "ShortName": "lion",
+    "Enum": "GALAXY LEGENDS",
+    "Name": "GALAXY LEGENDS",
+    "ShortName": "GL",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_MAD Lions",
@@ -1178,9 +1178,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "Rogue",
-    "Name": "K.O",
-    "ShortName": "K.O",
+    "Enum": "TEAM 7",
+    "Name": "TEAM 7",
+    "ShortName": "T7",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Rogue",
@@ -1209,9 +1209,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "G2 Esports",
-    "Name": "G.E",
-    "ShortName": "G.E",
+    "Enum": "VIRTUS PRO",
+    "Name": "VIRTUS PRO",
+    "ShortName": "VP",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_G2 Esports",
@@ -1240,9 +1240,9 @@
     "FinancialGrade": "8"
   },
   {
-    "Enum": "Schalke 04",
-    "Name": "TBDS",
-    "ShortName": "TBDS",
+    "Enum": "INFLUENCE RAGE",
+    "Name": "INFLUENCE RAGE",
+    "ShortName": "IR",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Schalke 04",
@@ -1271,9 +1271,9 @@
     "FinancialGrade": "3"
   },
   {
-    "Enum": "Fnatic",
-    "Name": "Fc",
-    "ShortName": "Fc",
+    "Enum": "TEAM FLASH",
+    "Name": "TEAM FLASH",
+    "ShortName": "FLASH",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Fnatic",
@@ -1302,9 +1302,9 @@
     "FinancialGrade": "7"
   },
   {
-    "Enum": "SK Gaming",
-    "Name": "sgam",
-    "ShortName": "sgam",
+    "Enum": "AXE",
+    "Name": "AXE",
+    "ShortName": "AXE",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_SK Gaming",
@@ -1333,9 +1333,9 @@
     "FinancialGrade": "3"
   },
   {
-    "Enum": "Misfits Gaming",
-    "Name": "THT",
-    "ShortName": "THT",
+    "Enum": "GUANGZHOU GAMING",
+    "Name": "GUANGZHOU GAMING",
+    "ShortName": "GZG",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Misfits Gaming",
@@ -1364,9 +1364,9 @@
     "FinancialGrade": "3"
   },
   {
-    "Enum": "EXCEL",
-    "Name": "exe",
-    "ShortName": "exe",
+    "Enum": "PRO ESPORTS",
+    "Name": "PRO ESPORTS",
+    "ShortName": "PRO",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_EXCEL",
@@ -1395,9 +1395,9 @@
     "FinancialGrade": "3"
   },
   {
-    "Enum": "Astralis",
-    "Name": "AT",
-    "ShortName": "AT",
+    "Enum": "KINGDOM ESPORTS",
+    "Name": "KINGDOM ESPORTS",
+    "ShortName": "KINGDOM",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Astralis",
@@ -1426,9 +1426,9 @@
     "FinancialGrade": "4"
   },
   {
-    "Enum": "Team Vitality",
-    "Name": "VT",
-    "ShortName": "VT",
+    "Enum": "VERSO TIME",
+    "Name": "VERSO TIME",
+    "ShortName": "VERSO",
     "Season": "2021",
     "LeagueEnum": "LPL",
     "TeamLogo": "IMG_Team_Logo_Team Vitality",
