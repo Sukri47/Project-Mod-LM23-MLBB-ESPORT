@@ -1116,8 +1116,8 @@
     "FinancialGrade": "8"
   },
   {
-    "Enum": "BOOTSGATE ESPORTS",
-    "Name": "BOOTSGATE ESPORTS",
+    "Enum": "BOOSTGATE ESPORTS",
+    "Name": "BOOSTGATE ESPORTS",
     "ShortName": "BGE",
     "Season": "2021",
     "LeagueEnum": "LPL",
